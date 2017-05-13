@@ -1,0 +1,11 @@
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.exe.config
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.Form1.resources
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.Resources.resources
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.vbproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.exe
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.pdb
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.xml
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.exe
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.xml
+c:\users\jorge\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.pdb
+C:\Users\Jorge\Documents\Visual Studio 2013\Projects\botones\botones\obj\Debug\botones.formOperaciones.resources
